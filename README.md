@@ -26,6 +26,7 @@ reference to https://perfetto.dev/docs/visualization/perfetto-ui
 **perfetto_win32-x64_v51.2.tar.gz**:
 source:
 https://github.com/google/perfetto/tree/v51.2
+
 perfetto_amd64:
 https://github.com/google/perfetto/releases/tag/v51.2
 
